@@ -1,0 +1,25 @@
+/* Ajoutez votre CSS personnalisé ici */
+.myrow {
+    margin-top: 50px;
+  }
+  
+  .form-check-label {
+    font-size: 0.875rem; /* Taille de police pour Remember Me */
+  }
+  
+  .input-group-text {
+    cursor: pointer; /* Curseur pointeur sur l'icône de masquage du mot de passe */
+  }
+  
+  .text-muted {
+    font-size: 0.875rem; /* Taille de police pour Forgot Password */
+  }
+  
+
+  .btn-primary {
+    background-image: linear-gradient(to right, yellow, red);
+    /* Autres styles du bouton */
+    color: white; /* Couleur du texte */
+    border: none; /* Supprimer la bordure */
+    /* Autres styles si nécessaire */
+}
